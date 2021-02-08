@@ -28,7 +28,7 @@ To run the code you have to install all the required libraries listed in the "re
 you have to execute the command:
 
 ```
-!pip install -r content/MLAI_project/requirements.txt
+!pip install -r /content/MLAI_project/requirements.txt
 
 ```
 
