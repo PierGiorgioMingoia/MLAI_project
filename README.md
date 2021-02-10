@@ -14,6 +14,12 @@ PACS/kfold/art_painting/dog/pic_002.jpg
 PACS/kfold/art_painting/dog/pic_003.jpg
 ...
 ```
+3 - If you want to use the PACS folder already saved in the Google Drive set this argument when run the experiments:
+```
+--path_dataset /content/drive/MyDrive/MLAI_project
+
+```
+
 
 ## Pretrained models
 
