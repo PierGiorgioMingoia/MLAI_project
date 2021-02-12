@@ -1,6 +1,6 @@
 # JiGen AIMLProject  <img src="https://github.com/silvia1993/Jigen_AIMLProject/blob/main/aiml.png" align="right" width="200">
 
-Follow these steps to run the code on Google Colab
+Follow these steps to run the code on Google Colab, to reproduce experiments in [Self supervision for Domain Generalization and Adaptation](https://github.com/PierGiorgioMingoia/MLAI_project/blob/main/Self%20supervision%20for%20Domain%20Generalization%20and%20Adaptation.pdf)
 
 ## Dataset
 
